@@ -29,3 +29,11 @@ h4 {
 p {
   font-size: 14px;
 }
+#copyright {
+  font-size: 11px;
+  color:white;
+}
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
