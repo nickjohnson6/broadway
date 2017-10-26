@@ -15,3 +15,17 @@ a {
 .home {
   background-image: url("the-flatiron-building.png");
 }
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px
+}
+h4 {
+  font-size: 23px;
+  color: white;
+  background-image: url("the-flatiron-building.png")
+}
+p {
+  font-size: 14px;
+}
